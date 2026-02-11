@@ -1,0 +1,8 @@
+{
+  "name": " VISHNU Game Center 8 per",
+  "description": "Premium Game Center Booking System with Gamer-focused UI/UX.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
